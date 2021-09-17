@@ -38,7 +38,7 @@ Versicherungen Buch Seite 49 - 55 und 61 - 67 +
 Mögliche Punkte die in die Note einfließen: +
 
 - Hausübungen (nur wenn wir in der Stunde nicht vorankommen) +
-- Tests (jedes Semester 2)
+- Tests (maximal jedes Semester 2, wenn nötig)
 
 Einladungslink für das GitHub Repository hat jeder per Mail erhalten.
 
