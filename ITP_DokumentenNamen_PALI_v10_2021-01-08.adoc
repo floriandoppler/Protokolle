@@ -1,0 +1,20 @@
+= Dokumenten-Namen
+
+* (M)andatory: Kontext
+** M: Fach ("ITP")
+** (O)ptional: Jahrgang
+** O: Klasse
+** Moodle-Kursbezeichnung ("ITP-SYP3BHITM2021")
+* M: Thema
+* M: Name
+** O: Nachname
+** O: Vorname
+** O: Namenskürzel
+** O: Katalognummer
+* O: Version z.B. "v10" (1.0 für erste offizielle Abgabe, 0.x in Arbeit, 1.x für Änderungen, 2.0 für "ganz neu")
+* O: Datum z.B. "2021-01-08"
+
+[NOTE] Zwischen den Elementen: "_" (Unterstrich)
+
+Beispiel#1: "ITP_DokumentenNamen_PALI_v10_2021-01-08"
+Beispiel#2: "ITP-SYP3BHITM2021_Projektorganisationsformen_Loizlbauer_Lorenz_v10_2021-01-08"
