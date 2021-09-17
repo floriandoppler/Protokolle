@@ -5,7 +5,7 @@
 In den 200 Stunden, die wir gemeinsam verbringen werden, wollen wir Spaß haben.
 Der erste Tagesordnungspunkt war ein Diagramm, welches den Spaß in der Freizeit im Vergleich zum Spaß in der Schule zeigt. Jeder hat einen Punkt auf der Tafel eingetragen.
 
-image::diagramm.svg[]
+image:ITP_diagramm_AICH[]
 
 Der nächste Punkt war ein kleines Spiel. Jeder schaut zu der Person, auf die eine Eigenschaft am meisten zutrifft. Der Gregor hat die Aufgabe bekommen ein GitHub Repository zu erstellen. Es wird darüber gesprochen, dass in der IT viel verbessert werden kann. Und dass das unsere zukünftige Aufgabe ist. 
 Wir kann man IT besser machen? Vielleicht Künstliche Intelligenz.
@@ -44,7 +44,7 @@ Einladungslink für das GitHub Repository hat jeder per Mail erhalten.
 
 Wasserfallmodel funktioniert in der IT häufig nicht. Weil in der IT vieles flexibler ist. Agile Softwareentwicklung ist deshalb für uns definitiv wichtiger. Lernen sollten wir trotzdem beides. Cynefin kann das Wasserfallmodel erklären.
 
-image:cynefin.png[]
+image:ITP_cynefin_AICH.png[]
 
 - SCR: sense categorize respond +
 - ASR: act sense respond +
