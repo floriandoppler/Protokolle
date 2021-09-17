@@ -5,7 +5,7 @@
 In den 200 Stunden, die wir gemeinsam verbringen werden, wollen wir Spaß haben.
 Der erste Tagesordnungspunkt war ein Diagramm, welches den Spaß in der Freizeit im Vergleich zum Spaß in der Schule zeigt. Jeder hat einen Punkt auf der Tafel eingetragen.
 
-image::ITP_diagramm_AICH[]
+image:ITP_diagramm_AICH.svg[]
 
 Der nächste Punkt war ein kleines Spiel. Jeder schaut zu der Person, auf die eine Eigenschaft am meisten zutrifft. Der Gregor hat die Aufgabe bekommen ein GitHub Repository zu erstellen. Es wird darüber gesprochen, dass in der IT viel verbessert werden kann. Und dass das unsere zukünftige Aufgabe ist. 
 Wir kann man IT besser machen? Vielleicht Künstliche Intelligenz.
