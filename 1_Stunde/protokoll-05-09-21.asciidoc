@@ -42,7 +42,7 @@ Mögliche Punkte die in die Note einfließen: +
 
 Einladungslink für das GitHub Repository hat jeder per Mail erhalten.
 
-Wasserfallmodel funktioniert in der IT nicht. Weil in der IT vieles flexibler ist. Agile Softwareentwicklung ist deshalb für uns definitiv wichtiger. Lernen sollten wir trotzdem beides. Cynefin kann das Wasserfallmodel erklären.
+Wasserfallmodel funktioniert in der IT häufig nicht. Weil in der IT vieles flexibler ist. Agile Softwareentwicklung ist deshalb für uns definitiv wichtiger. Lernen sollten wir trotzdem beides. Cynefin kann das Wasserfallmodel erklären.
 
 image:cynefin.png[]
 
