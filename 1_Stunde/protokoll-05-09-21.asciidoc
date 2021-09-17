@@ -1,0 +1,52 @@
+= Protokoll ITP
+
+15.09.2021
+
+In den 200 Stunden, die wir gemeinsam verbringen werden, wollen wir Spaß haben.
+Der erste Tagesordnungspunkt war ein Diagramm, welches den Spaß in der Freizeit im Vergleich zum Spaß in der Schule zeigt. Jeder hat einen Punkt auf der Tafel eingetragen.
+
+image::diagramm.svg[]
+
+Der nächste Punkt war ein kleines Spiel. Jeder schaut zu der Person, auf die eine Eigenschaft am meisten zutrifft. Der Gregor hat die Aufgabe bekommen ein GitHub Repository zu erstellen. Es wird darüber gesprochen, dass in der IT viel verbessert werden kann. Und dass das unsere zukünftige Aufgabe ist. 
+Wir kann man IT besser machen? Vielleicht Künstliche Intelligenz.
+
+Das Buch ist dasselbe wie vorheriges Jahr.
+Dietmar Steiner (Projektmanagement), Robert Reder (Wirtschaft) waren letztes Jahr bei uns in die Lehrer in ITP. Wie die Note zusammengestellt ist, ist noch nicht vollkommen geklärt.
+
+Schule ist nicht wie später im Job. Frontalunterricht funktioniert oft nicht. Deshalb ist es wichtig, dass wir im Unterricht gemeinsam Arbeiten und der Lehrer nicht nur vorträgt und vorträgt. Wenn die Schüler nur alles Akzeptieren was der Lehrer sagt, kann der Unterricht nicht funktionieren. Auch Lehrer machen Fehler.
+
+[underline]#*Teststoff vorheriges Jahr:*# +
+Projektplanung
+Projektstrukturplan .. Buch Seite 114 - 120 +
+Arbeitspakete .. Buch Seite 121 - 127 +
+Zeit/Ressourcenplan .. Buch Seite 128 - 138 +
+*Querschnittsaufgaben* +
+Risikomanagement .. Buch Seite 140 - 147 +
+*Dokumentation und Berichtswesen* +
+Protokolle .. Buch Seite 167 .. 170 +
+*UML* +
+UML (Entstehung, Nutzen, Diagrammarten und Übersicht) .. Buch Seite 273 - 279
+Anwendungsfalldiagramm im Detail .. Buch Seite 280 - 284 +
+Klassendiagramm im Detail .. Buch Seite 296 - 299 +
+Objektdiagramm im Detail .. Buch Seite 296 - 299 +
+Aktivitätsdiagramm im Detail .. Buch Seite 285 - 289 +
+*BO Teil* +
+Kreditinstitute .. Buch Seite 27 - 48 (Unternehmensbilanzen sind nicht wichtig, aber die ungefähre Eigenkapitalquote schon)
+Versicherungen Buch Seite 49 - 55 und 61 - 67 +
+
+
+Mögliche Punkte die in die Note einfließen: +
+
+- Hausübungen (nur wenn wir in der Stunde nicht vorankommen) +
+- Tests (jedes Semester 2)
+
+Einladungslink für das GitHub Repository hat jeder per Mail erhalten.
+
+Wasserfallmodel funktioniert in der IT nicht. Weil in der IT vieles flexibler ist. Agile Softwareentwicklung ist deshalb für uns definitiv wichtiger. Lernen sollten wir trotzdem beides. Cynefin kann das Wasserfallmodel erklären.
+
+image:cynefin.png[]
+
+- SCR: sense categorize respond +
+- ASR: act sense respond +
+- SAR: sense analyze respond +
+- PSR: probe sense respond +
