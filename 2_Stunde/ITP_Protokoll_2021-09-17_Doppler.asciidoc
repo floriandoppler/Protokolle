@@ -1,0 +1,55 @@
+= ITP - 17. September 2021
+Florian Doppler
+
+
+*Stundenprotokoll*
+
+**Stundenbeginn:**
+- Diskussion, wann der Unterricht zu Ende ist
+- Einigung auf das Unterrichtende um 14:20 Uhr, dafür keine Pause
+
+**Moodle**
+- Kurs erstellt (ITP 4AHITM Palitsch-Infanger 2122, agile)
+
+**Wiederholung**
+Marvin kommt an die Tafel und fasst den Ablauf der letzten Stunde, die am Mittwoch stattgefunden hat, zusammen. In seiner Zusammenfassung geht er auf das Diagramm (Spaß im Jahr 20/21), das Spiel mit den Eigenschaften, die Aufgaben verschiedener Personen, unsere Aktivitäten im letzten Jahr, die Zusammensetzung der Note, sowie auf das Wasserfallmodell ein. Professor Palitsch-Infanger korrigiert das Protokoll von Marvin, da sich dort ein Fehler bezüglich den Tests befindet.
+
+**Benennung von Dokumenten**
+- Es ist relevant, wie ein Dokument benannt wird
+
+----
+1. - *Kontext* (Fach, Jahrgang, Klasse, Moodle-Kursbezeichnung)
+2. - *Thema*
+3. - *Name* (Nachname, Vorname, Namenskürzel, Katalognummer)
+4. - *Version* (z.B.: v1.0, v2.0, …)
+5. - *Datum* (z.B. 2021-01-08)
+----
+
+- Beispiel: *ITP_DokumentenNamen_PALI_v10_2021-01-08*
+
+Die Idee dahinter ist, dass falls viele Dokumente vorhanden sind, die Organisation und Verwaltung einfacher wird. Das Dokument mit der Erklärung der Benennungen befindet sich auf GitHub.
+
+**Wasserfallmodell**
+- Brücke über die Donau: Complicated
+- Aufzug: Simple
+- Abseitsregel im Fußball: Complicated
+
+**CLIL (Content and Language Integrated Learning)**
+- 18 CLIL-Stunden im Jahr
+- Derzeit noch keinen Plan erstellt, welche Themen auf Englisch besprochen werden
+- CLIL-Stunden werden im Vorhinein angekündigt
+- A1: Gründer aus *Mexiko*, viele Angestellte aus *Indien*
+
+**Cynefin**
+- Entwicklung in Sprints (2-4 Wochen: Planung, Entwickeln, Testen, Bewerten)
+- Personalkosten von A1 knapp 70 Millionen Euro im Jahr (viele IT-MitarbeiterInnen)
+
+**Projektmanagement**
+- Besprechung des Teststoffes vom letzten Jahr
+- *Martin Kaar* befürwortet 4 stündige Tests am Montag
+- Projekte suchen, an denen 2 Jahre gearbeitet werden kann
+- Agile Softwareentwicklung: 6-8 Leute im Team (unterschiedliches Know-How)
+- Für Projekte in der HTL: Teamgröße von 3-5 Personen
+
+**Kreativmethoden**
+Mit der 635-Methode bekommt man sehr viele Möglichkeiten. Nächste Stunde besprechen wir weitere Methoden, um gute Ideen für Projekte zu bekommen.
